@@ -73,7 +73,7 @@ return 0;
 
 ## Output:
 
-<img width="11" height="1" alt="image" src="https://github.com/user-attachments/assets/abda9c3d-824a-46a0-a942-e65e5552f2e2" />
+<img width="450" height="197" alt="image" src="https://github.com/user-attachments/assets/32c40fb1-9389-46e3-bb59-2d1ab4ab2514" />
 
 
 ## Result:
